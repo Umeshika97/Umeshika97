@@ -1,6 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/92910353/230736169-9db78459-edc5-4045-af87-d757ca1d3c07.png)](https://Umeshika97.io)
 <h1 align="center">Hi 👋, I'm Umeshika Dissanayaka</h1>
 <h3 align="center">I am highly committed, passionate, and skilled in Molecular Dynamics and Digital Image Processing with academic experience in designing and implementing computer algorithms, and models for creating, and displaying. Moreover, capable of designing code, testing, and resolving image processing problems as well as creating efficient methods to enhance image quality. Good communication, problem-solving, analytical, and teamwork abilities.</h3>
-![Dark Blue Minimalist Modern Technology Instagram Post](https://user-images.githubusercontent.com/92910353/230734774-9f29cb39-ebbd-40e4-aec6-5ce48f889102.png)
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92910353/230734774-9f29cb39-ebbd-40e4-aec6-5ce48f889102.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshika97&label=Profile%20views&color=0e75b6&style=flat" alt="umeshika97" /> </p>

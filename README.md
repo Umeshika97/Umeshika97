@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Umeshika Dissanayaka</h1>
 <h3 align="center">I am highly committed, passionate, and skilled in Molecular Dynamics and Digital Image Processing with academic experience in designing and implementing computer algorithms, and models for creating, and displaying. Moreover, capable of designing code, testing, and resolving image processing problems as well as creating efficient methods to enhance image quality. Good communication, problem-solving, analytical, and teamwork abilities.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92910353/230736326-ff9f1b45-9d5f-441b-81c4-a0d4ca474f98.png">
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/92910353/230736326-ff9f1b45-9d5f-441b-81c4-a0d4ca474f98.png">
 
 
 

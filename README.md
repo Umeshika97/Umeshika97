@@ -16,6 +16,8 @@
 
 - 👯 I’m looking to collaborate on **Biomedical Physics Project**
 
+- 📝 I regularly write articles on [https://homephysicsexperiment.blogspot.com/](https://homephysicsexperiment.blogspot.com/)
+
 - 📫 How to reach me **umeshikasulakshani97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
